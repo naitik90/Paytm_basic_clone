@@ -58,8 +58,16 @@ npm run dev    # backend
 npm start      # frontend
 
 
-basic simulator for payzapp app for money purpose
+# Run backend and frontend (in two terminals)
+npm run dev    # backend
+npm start      # frontend
+
+---
+
+## 📸 Screenshot
+
 ![Dashboard Preview](https://raw.githubusercontent.com/naitik90/Paytm_basic_clone/main/dashboard.png)
+
 
 
 
