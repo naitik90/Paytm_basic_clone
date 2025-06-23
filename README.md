@@ -64,6 +64,9 @@ npm start
 
 ---
 
+## 📸 Screenshot
+
+![Dashboard Preview](https://raw.githubusercontent.com/naitik90/Paytm_basic_clone/master/dashboard.png)
 
 
 
