@@ -53,14 +53,14 @@ npm install
 cd ../server
 npm install
 
-# Run backend and frontend (in two terminals)
-npm run dev    # backend
-npm start      # frontend
+## 🧪 Run backend and frontend (in two terminals)
+```bash
+# Run backend
+npm run dev
 
-
-# Run backend and frontend (in two terminals)
-npm run dev    # backend
-npm start      # frontend
+# Run frontend
+npm start
+```
 
 ---
 
