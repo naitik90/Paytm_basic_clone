@@ -56,5 +56,5 @@ npm install
 # Run backend and frontend (in two terminals)
 npm run dev    # backend
 npm start      # frontend
-![Screenshot 2025-06-23 194158](https://github.com/user-attachments/assets/b311ebcd-73c0-4451-91fa-18f0dfd9c9f0)
+
 
